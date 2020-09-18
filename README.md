@@ -1,5 +1,5 @@
 # AlgorithmsWithWriteups
-Links to Algorithms and their Writeups I've develop at QuantConnect
+Links to Algorithms and their Writeups I've developed at QuantConnect
   
 Modeling a Pairs Trading Process as an Ornstein-Uhlenbeck Process to derive Optimal Entry and Liquidation Values  
 https://www.quantconnect.com/tutorials/strategy-library/optimal-pairs-trading  
