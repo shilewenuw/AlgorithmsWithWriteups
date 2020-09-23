@@ -7,7 +7,7 @@ Modeling a Pairs Trading Process as an Ornstein-Uhlenbeck Process to derive Opti
 [Video Walkthrough](https://www.youtube.com/watch?v=RFj8SPuZ43Y) 
   
 Applying a Temporal Convolutional Neural Network to Forecast Stock Price Movements  
-[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_9791a5615cd7ab78c4c70c12e8157014.html)
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_9791a5615cd7ab78c4c70c12e8157014.html)  
 [Writeup](https://www.quantconnect.com/tutorials/strategy-library/forecasting-stock-prices-using-a-temporal-cnn-model)  
 [Video Walkthrough](https://www.youtube.com/watch?v=yYPhOFfstLY)  
   
@@ -16,8 +16,8 @@ G-Score Factor Investing (Fundamental Analysis)
 Writeup in Queue
   
 SVM Wavelet Forecasting 
-[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_befdffa6509afa5c2118e83a065f7e02.html)
-Writeup in Queue
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_befdffa6509afa5c2118e83a065f7e02.html)  
+Writeup in Queue  
 
 Deep Q-Learning   
 In Progress  
