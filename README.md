@@ -2,12 +2,25 @@
 Links to Algorithms and their Writeups I've developed at QuantConnect
   
 Modeling a Pairs Trading Process as an Ornstein-Uhlenbeck Process to derive Optimal Entry and Liquidation Values  
-https://www.quantconnect.com/tutorials/strategy-library/optimal-pairs-trading  
-Video Walkthrough: https://www.youtube.com/watch?v=RFj8SPuZ43Y
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_14b6c6614134b8af76818387e9e74232.html)  
+[Writeup](https://www.quantconnect.com/tutorials/strategy-library/optimal-pairs-trading)  
+[Video Walkthrough](https://www.youtube.com/watch?v=RFj8SPuZ43Y) 
   
 Applying a Temporal Convolutional Neural Network to Forecast Stock Price Movements  
-https://www.quantconnect.com/tutorials/strategy-library/forecasting-stock-prices-using-a-temporal-cnn-model  
-Video Walkthrough: https://www.youtube.com/watch?v=yYPhOFfstLY  
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_9791a5615cd7ab78c4c70c12e8157014.html)
+[Writeup](https://www.quantconnect.com/tutorials/strategy-library/forecasting-stock-prices-using-a-temporal-cnn-model)  
+[Video Walkthrough](https://www.youtube.com/watch?v=yYPhOFfstLY)  
   
+G-Score Factor Investing (Fundamental Analysis)  
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_a4ddf109c4ac44f27fd8567b5ba053be.html)  
+Writeup in Queue
+  
+SVM Wavelet Forecasting 
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_befdffa6509afa5c2118e83a065f7e02.html)
+Writeup in Queue
+
+Deep Q-Learning   
+In Progress  
+   
 Leveraged ETFs with Systematic Risk Management  
 https://www.quantconnect.com/tutorials/strategy-library/leveraged-etfs-with-systematic-risk-management  
