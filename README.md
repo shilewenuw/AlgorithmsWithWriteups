@@ -23,4 +23,4 @@ Deep Q-Learning
 In Progress  
    
 Leveraged ETFs with Systematic Risk Management  
-https://www.quantconnect.com/tutorials/strategy-library/leveraged-etfs-with-systematic-risk-management  
+[Backtest/Code](https://www.quantconnect.com/tutorials/strategy-library/leveraged-etfs-with-systematic-risk-management)  
