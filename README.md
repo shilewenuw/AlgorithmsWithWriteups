@@ -16,7 +16,7 @@ G-Score Factor Investing (Fundamental Analysis)
 Writeup in Queue
   
 SVM Wavelet Forecasting   
-[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_befdffa6509afa5c2118e83a065f7e02.html)  
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c5da749bbf6d7b5dee1fa5509d6ad8e5.html)  
 Writeup in Queue  
 
 Deep Q-Learning   
