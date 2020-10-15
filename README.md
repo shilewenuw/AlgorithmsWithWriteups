@@ -20,9 +20,9 @@ SVM Wavelet Forecasting
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c5da749bbf6d7b5dee1fa5509d6ad8e5.html)  
 Writeup in Queue  
 
-Deep Learning Portfolio Optimization
-[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_ada1a6401f92e810a0f13c47fbee7921.html)
-Writeup in Queue
+Deep Learning Portfolio Optimization  
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_ada1a6401f92e810a0f13c47fbee7921.html)  
+Writeup in Queue  
 
 Deep Q-Learning   
 In Progress  
