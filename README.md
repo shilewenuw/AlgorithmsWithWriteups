@@ -13,7 +13,7 @@ Applying a Temporal Convolutional Neural Network to Forecast Stock Price Movemen
   
 G-Score Factor Investing (Fundamental Analysis)  
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_a4ddf109c4ac44f27fd8567b5ba053be.html)  
-Writeup in Queue
+Writeup in Queue  
 [Video Walkthough](https://www.youtube.com/watch?v=peaX0z5hA5U)
   
 SVM Wavelet Forecasting   
