@@ -14,10 +14,15 @@ Applying a Temporal Convolutional Neural Network to Forecast Stock Price Movemen
 G-Score Factor Investing (Fundamental Analysis)  
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_a4ddf109c4ac44f27fd8567b5ba053be.html)  
 Writeup in Queue
+[Video Walkthough](https://www.youtube.com/watch?v=peaX0z5hA5U)
   
 SVM Wavelet Forecasting   
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c5da749bbf6d7b5dee1fa5509d6ad8e5.html)  
 Writeup in Queue  
+
+Deep Learning Portfolio Optimization
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_ada1a6401f92e810a0f13c47fbee7921.html)
+Writeup in Queue
 
 Deep Q-Learning   
 In Progress  
