@@ -1,5 +1,5 @@
 # AlgorithmsWithWriteups
-Links to Algorithms and their Writeups I've developed at QuantConnect
+Here are some links to algorithms converted from academic papers, as well as their writeups, that I've developed at QuantConnect.
   
 Modeling a Pairs Trading Process as an Ornstein-Uhlenbeck Process to derive Optimal Entry and Liquidation Values  
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_14b6c6614134b8af76818387e9e74232.html)  
@@ -18,6 +18,10 @@ Writeup in Queue
   
 SVM Wavelet Forecasting   
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c5da749bbf6d7b5dee1fa5509d6ad8e5.html)  
+Writeup in Queue  
+
+Bitcoin ARIMA Forecasting   
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_5f73c6cec527c2665a194c8fc9dd94e1.html)  
 Writeup in Queue  
 
 Deep Learning Portfolio Optimization  
