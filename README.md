@@ -18,7 +18,7 @@ Writeup in Queue
   
 SVM Wavelet Forecasting   
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_c5da749bbf6d7b5dee1fa5509d6ad8e5.html)  
-Writeup in Queue  
+[Writeup](https://www.quantconnect.com/tutorials/strategy-library/svm-wavelet-forecasting)  
 
 Bitcoin ARIMA Forecasting   
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_5f73c6cec527c2665a194c8fc9dd94e1.html)  
