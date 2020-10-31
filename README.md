@@ -12,7 +12,7 @@ Applying a Temporal Convolutional Neural Network to Forecast Stock Price Movemen
 [Video Walkthrough](https://www.youtube.com/watch?v=yYPhOFfstLY)  
   
 G-Score Factor Investing (Fundamental Analysis)  
-[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_a4ddf109c4ac44f27fd8567b5ba053be.html)  
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_4b575276a5c8789bd24b031e81e8cdf3.html)  
 Writeup in Queue  
 [Video Walkthough](https://www.youtube.com/watch?v=peaX0z5hA5U)
   
