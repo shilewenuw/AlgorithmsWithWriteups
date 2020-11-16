@@ -5,7 +5,11 @@ Modeling a Pairs Trading Process as an Ornstein-Uhlenbeck Process to derive Opti
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_14b6c6614134b8af76818387e9e74232.html)  
 [Writeup](https://www.quantconnect.com/tutorials/strategy-library/optimal-pairs-trading)  
 [Video Walkthrough](https://www.youtube.com/watch?v=RFj8SPuZ43Y) 
-  
+
+Constructing a Cointegrated Portfolio Portfolio of Cryptocurrencies  
+[Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_f259836c1b76d52a5dc3d5a797fbf36a.html)  
+Writeup in Queue  
+
 Applying a Temporal Convolutional Neural Network to Forecast Stock Price Movements  
 [Backtest/Code](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_9791a5615cd7ab78c4c70c12e8157014.html)  
 [Writeup](https://www.quantconnect.com/tutorials/strategy-library/forecasting-stock-prices-using-a-temporal-cnn-model)  
